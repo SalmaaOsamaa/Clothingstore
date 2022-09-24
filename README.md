@@ -2,8 +2,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 
 ## About this project 
-Food ordering app is website for ordering food and sending feedback for the user when order is sent using a firebase database <br/>
-    <img src="./src/assets/pp.png" alt="Logo" width="70" height="80" >
+Food ordering app is website for ordering food and sending feedback for the user when order is sent using a firebase database <br/> 
+
+<img src="./src/assets/pp.png" alt="Logo" width="170" height="180" >
 
 ## the project uses react hooks such as :
 
