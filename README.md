@@ -2,7 +2,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 
 ## About this project 
-This was a layout for a food ordering app that i have been working on but changing the api for clothing store that matches a task requirements
+Food ordering app is website for ordering food and sending feedback for the user when order is sent using a firebase database <br/>
     <img src="./src/assets/pp.png" alt="Logo" height="60" >
 
 ## the project uses react hooks such as :
