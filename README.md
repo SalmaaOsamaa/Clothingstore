@@ -3,8 +3,9 @@
 
 ## About this project 
 Food ordering app is website for ordering food and sending feedback for the user when order is sent using a firebase database <br/> 
-
-<img src="./src/assets/pp.png" alt="Logo" width="270" height="180" >
+<div align="center" width="auto">
+<img src="./src/assets/pp.png" alt="Logo" width="300" height="300" >
+</div>
 
 ## the project uses react hooks such as :
 
