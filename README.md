@@ -3,6 +3,7 @@
 
 ## About this project 
 This was a layout for a food ordering app that i have been working on but changing the api for clothing store that matches a task requirements
+    <img src="./src/assets/pp.png" alt="Logo" height="50" >
 
 ## the project uses react hooks such as :
 
