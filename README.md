@@ -3,7 +3,7 @@
 
 ## About this project 
 Food ordering app is website for ordering food and sending feedback for the user when order is sent using a firebase database <br/> 
-<div align="center" width="auto">
+<div align="center" >
 <img src="./src/assets/pp.png" alt="Logo" width="200" height="200" >
 </div>
 
